@@ -33,6 +33,7 @@ iii.	Converted all categorical variables to numerical variables by creating new 
 iv.	Performed statistical analysis and used feature scaling so that all the variables are having same scaling system.
 
 c.	Exploratory Analysis – Understanding data to a much better extent to reveal data limitations, important features, and methods to answer research question. I performed univariate and multivariate analysis to achieve this.
+
                                       ![image](https://user-images.githubusercontent.com/56932100/110686426-6ba17200-81ad-11eb-864f-2d7b26fa5531.png)
 
 d.	Refining research question – revisited research question after completing exploratory analysis
