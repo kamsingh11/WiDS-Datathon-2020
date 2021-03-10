@@ -21,7 +21,7 @@ A variety of scoring systems are used to quantify the severity of illness of pat
 a.	Define research question – Will the patient survive or die?
 b.	Data Validation and Cleaning – Prepared data by identifying any issues and by cleaning and transforming the data. 
 i.	Dropped unnecessary columns before analyzing data - APACHE II and III are calculated using several vital measurements. A snippet of APACHE II calculator looks like the image below where the necessary measurements are used to calculate the APACHE II core:
-                               ![image](https://user-images.githubusercontent.com/56932100/110676283-c9c85800-81a1-11eb-92fd-7f8f342d9a01.png) 
+                                      ![image](https://user-images.githubusercontent.com/56932100/110676283-c9c85800-81a1-11eb-92fd-7f8f342d9a01.png) 
 
  
 Similarly, APACHE III score is also calculated using several vital measurements.
@@ -33,6 +33,8 @@ iii.	Converted all categorical variables to numerical variables by creating new 
 iv.	Performed statistical analysis and used feature scaling so that all the variables are having same scaling system.
 
 c.	Exploratory Analysis – Understanding data to a much better extent to reveal data limitations, important features, and methods to answer research question. I performed univariate and multivariate analysis to achieve this.
+                                      ![image](https://user-images.githubusercontent.com/56932100/110686426-6ba17200-81ad-11eb-864f-2d7b26fa5531.png)
+
 d.	Refining research question – revisited research question after completing exploratory analysis
 
 #### 2.	Machine Learning 
