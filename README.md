@@ -21,7 +21,7 @@ A variety of scoring systems are used to quantify the severity of illness of pat
 a.	Define research question – Will the patient survive or die?
 b.	Data Validation and Cleaning – Prepared data by identifying any issues and by cleaning and transforming the data. 
 i.	Dropped unnecessary columns before analyzing data - APACHE II and III are calculated using several vital measurements. A snippet of APACHE II calculator looks like the image below where the necessary measurements are used to calculate the APACHE II core:
-![image](https://user-images.githubusercontent.com/56932100/110676283-c9c85800-81a1-11eb-92fd-7f8f342d9a01.png)
+                               ![image](https://user-images.githubusercontent.com/56932100/110676283-c9c85800-81a1-11eb-92fd-7f8f342d9a01.png) 
 
  
 Similarly, APACHE III score is also calculated using several vital measurements.
